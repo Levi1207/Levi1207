@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello👋🏻<br>My name is Isfandiyor<br>Web development is an opportunity to bring your ideas to life and make your mark on the Internet.<br>I am a web developer with over two years of experience in the information technology industry.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Levi_Ezio#9074) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/levi_ezio1207) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/3MkcBPt) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/isfandiyor1207) 
 
