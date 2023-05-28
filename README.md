@@ -22,7 +22,7 @@ Hello👋🏻<br>My name is Isfandiyor<br>Web development is an opportunity to b
 ![](https://github-contributor-stats.vercel.app/api?username=Levi1207&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTMwNjdjYjQ5OWM5M2U5NTBmOTMxNmQwOWRhYjllNTgyYzMwMzliMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/USV0ym3bVWQJJmNu3N/giphy.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Levi1207&icon=2&color=0)](https://visitcount.itsvg.in)
