@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello👋🏻<br>My name is Isfandiyor<br>Web development is an opportunity to bring your ideas to life and make your mark on the Internet.<br>I am a web developer with over two years of experience in the information technology industry.
+Hello👋🏻<br>My name is Levi<br>Web development is an opportunity to bring your ideas to life and make your mark on the Internet.<br>I am a web developer with over two years of experience in the information technology industry.
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Levi1207.png)
 
