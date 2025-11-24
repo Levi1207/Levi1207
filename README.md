@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello👋🏻<br>My name is Levi<br>Web development is an opportunity to bring your ideas to life and make your mark on the Internet.<br>I am a web developer with over two years of experience in the information technology industry.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2404557" style='border:none;'></iframe>
 
 
 ## 🌐 Socials:
