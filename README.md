@@ -1,9 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Levi1207&fontSize=80&fontAlignY=35&desc=Web+Dev+|+Cyber+Security&descAlignY=55)
+
 # 💫 About Me:
 Hello👋🏻<br>My name is Levi<br>Web development is an opportunity to bring your ideas to life and make your mark on the Internet.<br>I am a web developer with over two years of experience in the information technology industry.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Web+Developer;Cyber+Security+Specialist;Building+products+in+Uzbekistan)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Levi1207&fontSize=80&fontAlignY=35&desc=Web+Dev+|+Cyber+Security&descAlignY=55)
+
 
 ![snake gif](https://github.com/Levi1207/Levi1207/blob/output/github-contribution-grid-snake.gif)
 
