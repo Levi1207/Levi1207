@@ -4,8 +4,47 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Web+Developer;Cyber+Security+Specialist;Building+products+in+Uzbekistan)](https://git.io/typing-svg)
 
 
-# 💫 About Me:
-Hello👋🏻<br>My name is Levi<br>Web development is an opportunity to bring your ideas to life and make your mark on the Internet.<br>I am a web developer with over two years of experience in the information technology industry.
+## 💫 About Me
+
+🎓 Cybersecurity student specializing in **offensive security** and **system analysis**.
+
+🛡️ Focused on penetration testing, network traffic analysis, Linux environments,
+and security research — with a strong emphasis on understanding how systems
+break before learning how to defend them.
+
+⚔️ Developing practical skills in:
+- Ethical hacking & exploit development
+- Malware analysis & reverse engineering
+- Secure infrastructure assessment
+- Vulnerability research & attack vector mapping
+
+🔬 Actively working on hands-on cybersecurity projects to deepen real-world
+understanding of threats, defensive mechanisms, and adversarial thinking.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔐 Cybersecurity
+| Category | Tools |
+|---|---|
+| 🐧 OS | Kali Linux |
+| 🐍 Languages | Python, C++ |
+| 🔍 Network Analysis | Wireshark, Nmap, Netcat |
+| 🕸️ Web Pentesting | Burp Suite, SQLmap |
+| 💥 Exploitation | Metasploit Framework |
+| 🔑 Password Cracking | Hashcat, John the Ripper |
+| 🔬 Reverse Engineering | Ghidra |
+
+### 🌐 Web Development
+| Category | Tools |
+|---|---|
+| 🎨 Frontend | HTML5, CSS3, JavaScript, Vue.js, React.js |
+| 💨 Styling | TailwindCSS, Bootstrap |
+| ⚙️ Backend | Node.js |
+| 🗄️ Database | PostgreSQL, MySQL |
+| 🐳 DevOps | Git / GitHub |
+| 🖌️ Design | Figma |
 
 
 
