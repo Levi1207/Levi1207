@@ -80,7 +80,6 @@ understanding of threats, defensive mechanisms, and adversarial thinking.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Levi1207&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Levi1207&theme=tokyonight&hide_border=true)
 
@@ -107,9 +106,6 @@ understanding of threats, defensive mechanisms, and adversarial thinking.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Levi1207&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Levi1207/Levi1207/output/github-contribution-grid-snake-dark.svg" />
