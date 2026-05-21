@@ -1,17 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Levi1207&fontSize=80&fontAlignY=35&desc=Web+Dev+|+Cyber+Security&descAlignY=55)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Levi1207/Levi1207/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Levi1207/Levi1207/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Levi1207/Levi1207/output/github-contribution-grid-snake.svg" />
-</picture>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Web+Developer;Cyber+Security+Specialist;Building+products+in+Uzbekistan)](https://git.io/typing-svg)\
+
 
 # 💫 About Me:
 Hello👋🏻<br>My name is Levi<br>Web development is an opportunity to bring your ideas to life and make your mark on the Internet.<br>I am a web developer with over two years of experience in the information technology industry.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Web+Developer;Cyber+Security+Specialist;Building+products+in+Uzbekistan)](https://git.io/typing-svg)
 
 
 
@@ -32,6 +27,15 @@ Hello👋🏻<br>My name is Levi<br>Web development is an opportunity to bring y
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Levi1207&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Levi1207/Levi1207/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Levi1207/Levi1207/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Levi1207/Levi1207/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ### 😂 Random Dev Meme
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTMwNjdjYjQ5OWM5M2U5NTBmOTMxNmQwOWRhYjllNTgyYzMwMzliMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/USV0ym3bVWQJJmNu3N/giphy.gif" width="512px"/>
