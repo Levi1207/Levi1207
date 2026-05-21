@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Levi1207&fontSize=80&fontAlignY=35&desc=Web+Dev+|+Cyber+Security&descAlignY=55)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Web+Developer;Cyber+Security+Specialist;Building+products+in+Uzbekistan)](https://git.io/typing-svg)\
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Web+Developer;Cyber+Security+Specialist;Building+products+in+Uzbekistan)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
