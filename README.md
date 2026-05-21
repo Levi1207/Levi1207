@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Levi1207&fontSize=80&fontAlignY=35&desc=Web+Dev+|+Cyber+Security&descAlignY=55)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Levi1207/Levi1207/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Levi1207/Levi1207/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Levi1207/Levi1207/output/github-contribution-grid-snake.svg" />
+</picture>
+
 # 💫 About Me:
 Hello👋🏻<br>My name is Levi<br>Web development is an opportunity to bring your ideas to life and make your mark on the Internet.<br>I am a web developer with over two years of experience in the information technology industry.
 
