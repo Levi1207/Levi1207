@@ -83,7 +83,6 @@ understanding of threats, defensive mechanisms, and adversarial thinking.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Levi1207&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi1207&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 </div>
 
